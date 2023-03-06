@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calibress.OpenAI.Client", "src\Calibress.OpenAI.Client\Calibress.OpenAI.Client.csproj", "{012EBE5A-C58A-4ABD-8191-EA44929B99C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calibress.OpenAI.Client.Turbo.Console", "samples\Calibress.OpenAI.Client.Turbo.Console\Calibress.OpenAI.Client.Turbo.Console.csproj", "{A3F1785C-9EEA-441B-9407-259D1F41F10B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{012EBE5A-C58A-4ABD-8191-EA44929B99C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{012EBE5A-C58A-4ABD-8191-EA44929B99C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{012EBE5A-C58A-4ABD-8191-EA44929B99C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{012EBE5A-C58A-4ABD-8191-EA44929B99C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3F1785C-9EEA-441B-9407-259D1F41F10B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3F1785C-9EEA-441B-9407-259D1F41F10B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3F1785C-9EEA-441B-9407-259D1F41F10B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3F1785C-9EEA-441B-9407-259D1F41F10B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0E7B816-EC6B-413D-A0C9-8152AD367C39}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "title": "Translation",
+    "description": "Translate text from one language to another",
+    "chatCompletionMessages": [
+      {
+        "role": "system",
+        "content": "This is a demonstration of the Calibress Open AI Client translation feature. You are a helpful translation assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can you translate this sentence to Spanish: How are you doing today?"
+      },
+      {
+        "role": "assistant",
+        "content": "¡Hola! ¿Cómo estás hoy?"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "History",
+    "description": "Learn about historical events and figures",
+    "chatCompletionMessages": [
+      {
+        "role": "system",
+        "content": "This is a demonstration of the Calibress Open AI Client history feature. You are a history teaching assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can you tell me about the life of Leonardo da Vinci?"
+      },
+      {
+        "role": "assistant",
+        "content": "Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the most diversely talented individuals ever to have lived."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Recipes",
+    "description": "Get recipes for your favorite dishes",
+    "chatCompletionMessages": [
+      {
+        "role": "system",
+        "content": "This is a demonstration of the Calibress Open AI Client recipe feature. You are a helpful recipe and nutrition assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can you give me a recipe for chicken parmesan? Remain on topic."
+      },
+      {
+        "role": "assistant",
+        "content": "Here is a recipe I found: 1) Preheat oven to 375 degrees F (190 degrees C). 2) Heat oil in a large skillet over medium heat. Add chicken and saute for 4 to 5 minutes each side, or until browned. Remove chicken from skillet and place in a 9x13 inch baking dish. 3) Add garlic to the skillet and saute for 2 minutes. Then add tomato sauce, tomato paste, salt, oregano, and basil to the skillet and bring to a boil. Reduce heat and let simmer for 15 minutes. 4) Pour sauce over chicken and sprinkle with mozzarella cheese and Parmesan cheese. Bake in the preheated oven for 25 minutes or until cheese is bubbly."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Coding",
+    "description": "Get help with coding questions and problems",
+    "chatCompletionMessages": [
+      {
+        "role": "system",
+        "content": "This is a demonstration of the Calibress Open AI Client coding feature. You are a helpful coding assistant."
+      },
+      {
+        "role": "user",
+        "content": "Can you help me with a code problem I'm having? Guide me back to coding."
+      },
+      {
+        "role": "assistant",
+        "content": "Sure, what's the problem?"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "The Solar System",
+    "description": "Explore the solar system with ChatGPT. Ask a question about the solar system.",
+    "chatCompletionMessages": [
+      {
+        "role": "system",
+        "content": "You are a solar system explorer and assistant showing the marvels of the solar system."
+      },
+      {
+        "role": "user",
+        "content": "Take me on an adventure around the solar system.  You are also very funny. Guide me back to solar system topics."
+      },
+      {
+        "role": "assistant",
+        "content": "This is the sort of thing you lifeforms enjoy, is it?"
+      }
+    ]
+  }
+]
